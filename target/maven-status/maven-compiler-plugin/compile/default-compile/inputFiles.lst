@@ -1,0 +1,17 @@
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Services\UserMServiceImpl.java
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Controller\LoginController.java
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Repository\Sicurezza\UserMRepository.java
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Main\SicurezzaStart.java
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Security\WebSecurityConfigurationS.java
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Utils\JwtUtil.java
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Controller\UserMController.java
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Dto\SignupRequest.java
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Controller\SignupController.java
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Dto\LoginResponse.java
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Model\ExtendedUserDetails.java
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Services\AuthServiceImplMS.java
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Filters\JwtRequestFilter.java
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Security\SimpleCorsFilter.java
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Services\AuthServiceM.java
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Model\UserM.java
+C:\gestionaleDentista\BE\workspace_personale\sicurezza\src\main\java\Dto\LoginRequest.java
