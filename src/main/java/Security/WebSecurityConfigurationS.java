@@ -42,7 +42,7 @@ import Repository.Sicurezza.UserMRepository;
 	        		 .cors()
 		                .and()
 	                .authorizeHttpRequests()
-	                .requestMatchers("/api/signup", "/api/login").permitAll()
+	                .requestMatchers("/signup", "/login").permitAll()
 	                .requestMatchers("/appuntamento/**").authenticated()
 	                .and()
 	                .authorizeHttpRequests().requestMatchers("/**").permitAll()
@@ -71,7 +71,7 @@ import Repository.Sicurezza.UserMRepository;
 	            @Override
 	            public void addCorsMappings(CorsRegistry registry) {
 	                registry.addMapping("/**")
-	                        .allowedOrigins("http://localhost:4200", "http://localhost:4200/api")
+	                        .allowedOrigins("https://gestionale-dentista-frontend-7nxhklfpb.vercel.app", "https://gestionale-dentista-frontend-7nxhklfpb.vercel.app/api")
 	                        .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
 	                        .allowedHeaders("*")
 	                        .allowCredentials(true);
